@@ -10,7 +10,7 @@
         "level": 1,
         "bid_value": 12.29,
         "bid_volume": 58962,
-        "bid_orders": "20",
+        "bid_orders": 20
       }
     ],
     "ask":[
