@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "payload": {
+    "infosel_code": "CEMEXCPO.BMV",
+    "symbol": "CEMEXCPO",
+    "exchange": "BMV",
+    "close": [
+      {
+        "timestamp": 1234567890,
+        "close": 12.17,
+        "open": 12.1,
+        "low": 11.46,
+        "high": 12.25,
+        "volume": 34735383,
+        "amount": 416987402
+      }
+      ...
+    ]
+  },
+  "error": null
+}
