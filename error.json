@@ -1,0 +1,10 @@
+{
+  "success": false,
+  "payload": null,
+  "error": [
+    {
+      "code": 12345,
+      "description": "..."
+    }
+  ]
+}
