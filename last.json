@@ -1,6 +1,7 @@
 {
   "success": true,
   "payload": [
+    // todo ok
     {
       "infosel_code": "CEMEXCPO.BMV",
       "symbol": "CEMEXCPO",
