@@ -1,0 +1,27 @@
+{
+  "success": true,
+  "payload": [
+    {
+      "infosel_code": "CEMEXCPO.BMV",
+      "symbol": "CEMEXCPO",
+      "exchange": "BMV",
+      "timestamp": 1234567890,
+      "last_value": 12.17,
+      "last_volume": 200,
+      "last_amount": 12902,
+      "last_buy": "CICB",
+      "last_sell": "GBM",
+      "last_change": 1.32,
+      "last_change_percentage": 2.089,
+      "last_ppp": 12.17,
+      "open": 63.28,
+      "close": 63.19,
+      "low": 62.1,
+      "high": 64.96,
+      "total_amount": 1460400,
+      "total_volume": 34735,
+      "total_operations": 13574
+    }
+  ],
+  "erro":null
+}
