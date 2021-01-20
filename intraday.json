@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "payload": {
+    "infosel_code": "CEMEXCPO.BMV",
+    "symbol": "CEMEXCPO",
+    "exchange": "BMV",
+    "intraday": [
+      {
+          "timestamp": 1234567890,
+          "trade_number": 12345667890,
+          "value": 12.17,
+          "volume": 200,
+          "amount": 12902,
+          "buy": "CICB",
+          "sell": "GBM",
+          "ppp": 12.17
+      }
+    ]
+  }
+}
