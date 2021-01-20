@@ -5,7 +5,7 @@
     "symbol": "CEMEXCPO",
     "exchange": "BMV",
     "timestamp": "1234567890",
-    "bid": [
+    "bid": {
       {
         "level": 1,
         "bid_value": 12.29,
