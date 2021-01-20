@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "payload": {
+    "infosel_code": "CEMEXCPO.BMV",
+    "symbol": "CEMEXCPO",
+    "exchange": "BMV",
+    "timestamp": "1234567890",
+    "bid": [
+      {
+        "level": 1,
+        "bid_value": 12.29,
+        "bid_volume": 58962,
+        "bid_orders": "20",
+      }
+    ],
+    "ask":[
+      {
+        "level": "1",
+        "ask_value": 12.31,
+        "ask_volume": 58962,
+        "ask_orders": 500
+      }
+    ]
+  },
+  "error": null
+}
