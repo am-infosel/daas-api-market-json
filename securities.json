@@ -2,16 +2,16 @@
   "success": true,
   "payload": [
     {
-      "infosel_code": "CEMEXCPO.BMV",
+      "symbol": "CEMEXCPO",
       "exchange": "BMV",
-      "value_type": "1",
+      "exchange_value_type": "1",
+      "infosel_code": "CEMEXCPO.BMV",
       "asset_class": "Equity",
       "group": "Stock",
-      "symbol": "CEMEXCPO",
       "isin": "MXP225611567",
       "name": "CEMEX, S.A.B. de C.V.",
       "currency": "MXN",
-      "country": "MEX"
+      "country": "MX"
     }
   ],
   "error":null
