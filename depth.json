@@ -11,14 +11,50 @@
         "bid_value": 12.29,
         "bid_volume": 58962,
         "bid_orders": 20
+      },
+            {
+        "level": 2,
+        "bid_value": 12.29,
+        "bid_volume": 58962,
+        "bid_orders": 20
+      },
+            {
+        "level": 3,
+        "bid_value": 12.29,
+        "bid_volume": 58962,
+        "bid_orders": 20
+      },
+            {
+        "level": 4,
+        "bid_value": 12.29,
+        "bid_volume": 58962,
+        "bid_orders": 20
       }
     ],
     "ask":[
       {
-        "level": "1",
-        "ask_value": 12.31,
-        "ask_volume": 58962,
-        "ask_orders": 500
+        "level": 1,
+        "bid_value": 12.29,
+        "bid_volume": 58962,
+        "bid_orders": 20
+      },
+            {
+        "level": 2,
+        "bid_value": 12.29,
+        "bid_volume": 58962,
+        "bid_orders": 20
+      },
+            {
+        "level": 3,
+        "bid_value": 12.29,
+        "bid_volume": 58962,
+        "bid_orders": 20
+      },
+            {
+        "level": 4,
+        "bid_value": 12.29,
+        "bid_volume": 58962,
+        "bid_orders": 20
       }
     ]
   },
